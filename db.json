@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    {"errors":[{"message":"Unauthorized: Error getting fulfillmentId"}],"meta":{"build":"12345","success":false,"timestamp":"2017-08-09T13:26:07.808-04:00","message":null,"time":0,"correlation_id":null,"errors":[{"message":"Unauthorized: Error getting fulfillmentId"}],"error":null},"error":null,"status_code":0}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
